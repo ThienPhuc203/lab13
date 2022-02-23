@@ -1,0 +1,12 @@
+article .aaa{
+float: right;
+    font-size: 20px;
+    width: 550px;
+}
+article img{
+    width: 600px;
+    float: left;
+}
+article {
+    width: 1200px;
+}
